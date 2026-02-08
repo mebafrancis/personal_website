@@ -622,15 +622,19 @@ a:hover {
   border-radius: 15px;
   margin: 40px auto;
   max-width: 800px;
+  min-width: 320px;
+  width: 100%;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
 }
 
 .skills-container {
   margin-top: 30px;
+  width: 100%;
 }
 
 .skill-item {
   margin-bottom: 25px;
+  width: 100%;
 }
 
 .skill-progress-container {
